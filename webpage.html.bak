@@ -1,0 +1,178 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Copa Trade Website</title>
+
+</head>
+
+<body>
+
+<div class="main">
+<div class="header">
+	<div class="header-left">
+        <a href="http://www.itisrinagar.org" target="_blank">
+            <img src="iti.png" width="811"height="95" />
+        </a>
+    </div>
+<marquee direction="left" height="60" hscape="50" vscape="45" scrollamount="4" bgcolor="red" onMouseOver="stop();"onMouseOut="start();">
+WELCOME TO THE PROJECT WEBSITE OF COPA</marquee> 
+    <div class="header-right">
+    	<ul>
+        	<li><a href="webpage.html">Home</a></li>
+            <li><a href="http://www.itisrinagar.org/About.aspx">About Us</a></li>
+			<li ><a href="#">Trades</a>
+		<ul>	
+            <li><a href="http://www.itisrinagar.org/Electrician.aspx">Electrician</a></li>
+			<li><a href="http://www.itisrinagar.org/Instrument_Mechanic.aspx">Instrument Mechanic</a></li>
+            <li><a href="http://www.itisrinagar.org/Electronic_Mechanic.aspx">Electronic Mechanic</a></li>
+            <li><a href="http://www.itisrinagar.org/Mechanic_Motor_Vehicle.aspx">Mechanic Motor Vehicle</a></li>
+            <li><a href="http://www.itisrinagar.org/Fitter.aspx">Fitter</a></li>
+            <li><a href="http://www.itisrinagar.org/Turner.aspx">Turner</a></li>
+            <li><a href="http://www.itisrinagar.org/Machinist.aspx">Machinist</a></li>
+            <li><a href="http://www.itisrinagar.org/Plumber.aspx">Plumber</a></li>
+            <li><a href="http://www.itisrinagar.org/Stenography_And_Secretarial_Assistant_English.aspx">Stenography & Secretarial Assistant (English)</a></li>
+            <li><a href="http://www.itisrinagar.org/Sewing_Technology.aspx">Sewing Technology</a></li>
+            <li><a href="http://www.itisrinagar.org/Copa.aspx">COPA</a></li>
+            <li><a href="http://www.itisrinagar.org/Welder.aspx">Welder</a></li>
+            <li><a href="http://www.itisrinagar.org/ICTSM.aspx">ICTSM</a></li>
+            <li><a href="http://www.itisrinagar.org/Refrigeration.aspx">AC & Refrigeration</a></li>
+            <li><a href="http://www.itisrinagar.org/Dress_Making.aspx">Dress Making</a></li>
+            <li><a href="http://www.itisrinagar.org/Mechanic_Diesel.aspx">Mechanic Diesel</a></li>
+            <li><a href="http://www.itisrinagar.org/Computer_Hardware_And_Network_Maintenance.aspx">Computer Hardware & Network Maintenance</a></li>
+            <li><a href="http://www.itisrinagar.org/Digital_Photographer.aspx">Digital Photographer</a></li>
+            <li><a href="http://www.itisrinagar.org/Draughtsman_Mechanical.aspx">Draughtsman Mechanical</a></li>
+            <li><a href="http://www.itisrinagar.org/Health_And_Sanitary_Inspector.aspx">Health & Sanitary Inspector</a></li>
+            <li><a href="http://www.itisrinagar.org/Tourist_Guide.aspx">Tourist Guide</a></li>
+            <li><a href="http://www.itisrinagar.org/Front_Office_Assistant.aspx">Front Office Assistant</a></li>
+            <li><a href="http://www.itisrinagar.org/Data_Entry_Operator.aspx">Data Entry Operator</a></li>
+            <li><a href="http://www.itisrinagar.org/Fashion_Design_Technology.aspx">Fashion Design Technology</a></li>
+            <li><a href="http://www.itisrinagar.org/Electrician_Self_Financing.aspx">Electrician (Self Financing)</a></li>
+            <li><a href="http://www.itisrinagar.org/Plumber_Self_Financing.aspx">Plumber (Self Financing)</a></li>
+            <li><a href="http://www.itisrinagar.org/Stenography_And_Secretarial_Assistant_English_Self_Financing.aspx">Stenography & Secretarial Assistant (English) (Self Financing)</a></li>
+            <li><a href="http://www.itisrinagar.org/COPA_Self_Financing.aspx">COPA (Self Financing)</a></li>
+            <li><a href="http://www.itisrinagar.org/Wood_Carving_Skills.aspx">Wood Carving Skills</a></li>
+            <li><a href="http://www.itisrinagar.org/Paper_Machie.aspx">Paper Machie</a></li>
+			
+        </ul>
+    </div>
+</div>
+<div class="banner">
+   <div class="banner-links"> </br>
+		<a href="http://www.itisrinagar.org/Admissions.aspx">ADMISSIONS</a>
+   </div>
+</div>
+
+<h2 align="center"> Message from the principal </h2>
+<img src="prin.png" height="240" width="210"  align="center">
+<marquee direction="up" font="san-serif" height="100" hscape="60" vscape="75" scrollamount="0.5"
+ bgcolor="pink" onMouseOver="stop();"onMouseOut="start();">
+<b> <i> It gives me immense pleasure to welcome you to INDUSTRIAL TRAINING INSTITUTE Srinagar ( ITI Srinagar) 
+which is in the service of nation, imparting craftsman training to the youth since 1957.</br>
+Industrial training institute Srinagar is running under the
+ Administrative control Of Directorate of Skill Development Department Jammu & Kashmir,</br>
+ implementing Craftsmen Training scheme sponsored by Director General Employment & Training (DGE&T) New Delhi
+Crafts man scheme was introduced by government of India in the year 1950 </br>
+to ensure a steady flow of skilled workers in different trades for domestic industry 
+to raise quantitatively & qualitatively the industrial production by systematic training,
+ to reduce unemployment among youth by providing them employable training,</br>
+ to cultivate & nurture a technical /industrial attitude in the minds of the younger generation.
+The scheme was transferred to the state of Jammu & Kashmir in the year 1958 & ITI Srinagar</br>
+ was established in the year 1962.
+ District Srinagar is located in south of Kashmir which is summer capital of J&K UT.
+ ITI Srinagar is located at about 2.5 Kms from main town of Srinagar towards north.</i></b>
+</marquee>
+
+
+
+
+<div class="content">
+
+  <div class="content-header" align="center"></div>
+  <h1 align="center"> Welcome to the COPA ( Computer Operator and Programming Assistant) </h1>
+  </br> </br> </br>
+  
+  <h4>
+  
+        The Trade qualifies a candidate to work as a middle level computer professional. 
+		Concepts of both Hardware and Software are given in the training.
+		The trainees become conversant with operating systems like DOS, Windows and UNIX,
+		Language Programming as D-Base and C/C++ is done and knowledge is also imparted about Internet
+		and its scope.set up own cutting/tailors shops.
+		
+  </h4>
+	</br> </br> </br>
+    <div class="content-right"><img src="1.jpg" width="850" height="650" /></div>
+	</br>
+
+
+            <h3>
+            Industrial training institute, Srinagar was established in December 1988 and started its first batch of trainees in July 1989.
+			It is one of the developed tehsils of District.
+			The Institute under the guidance & support of National Council for Vocational Training (NCVT),
+			DGET, Ministry of labor and Employment...
+			</h3>
+        
+	</br> 
+   
+    	<img src="3.jpg" width="900" height="650" />  
+  <h3>
+  To provide a good academic environment by exposing the students to quality education
+To prepare students for the competitive environment and inculcate in them the importance of entrepreneurship and to establish self- supporting enterprise.
+To try to network the institute with the industries and to provide the intermittent training facilities to the trainees in the industries.
+To enable students to discover their potentialities and interest by providing proper guidance and counseling.
+To enable students to get information about various job opportunities and to acquire the necessary skills of facing the interviews.
+To help the students in the match of choice of course with their ability, interest and aptitude. </p>
+        </h3>
+    
+    	<img src="2.jpg" width="850" height="600" /></br>
+		
+       
+<h2>Get In Touch</h2>
+
+        <ul>
+            <li><a href="#"><i class=""></i>&nbsp; 7006087681</a></li>
+            <li><a href="Http://www.Jkbote.In"><i class="fa fa-envelope"></i>&nbsp; Www.Jkbote.com</a></li>
+        </ul>
+    </div>
+    
+    <div class="footer-parts">
+    	<br />
+		<h2>Social Links</h2>
+<ul>
+<li><a href="http://www.instagram.com/saifun07/">  Saifu_Instagram </a> </li>
+<li><a href="http://www.instagram.com/sonof_aadam/">Masir_instagram</a></li>
+<li><a href="https://www.facebook.com/XaifuNoor/"> Facebook </a> </li>
+<li><a href="https://www.xafunoor@gmail.com"> Saifu_Gmail </a> </li>
+<li><a href="https://www.muhammadbinmasir@gmail.com"> Masir_Gmail </a> </li>
+
+</ul>
+    <div class="clearfix"></div>
+    <div class="copyrights">
+    	<div class="copyrights-left">
+ &copy; 2021. All rights reserved by <a href="https://www.facebook.com/XaifuNoor/" target="_blank">Saifu Noor</a>
+        </div>
+        <div class="copyrights-right">
+        	Designed by <a href="http://www.instagram.com/saifun07/" target="_blank"> Saifu Noor</a>
+        </div>
+    </div>
+</div>
+
+</div>
+<h2>Contact Us</h2>
+<ul>
+<li>
+Baghi-i-Dilawar Khan Shamaswari Opposite Gandhi College Srinagar, </br>
+
+Second Campus; Zainakot.</br>
+
+Jammu and Kashmir 190002.</br>
+
+Phone: 0194 247 9930.2478193</br>
+
+Web site:-www.itisrinagar.org</br>
+
+Email:- itisrinagar@gmail.com </li>
+</ul>
+
+</body>
+</html>
